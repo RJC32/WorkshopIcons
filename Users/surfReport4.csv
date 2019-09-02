@@ -1,0 +1,80 @@
+ID,Beach,Patrol,Longitude,Latitude,Vistors,Rescues,Minor,Major,CPR,Casualties
+1,Ahipara,Patrolled by Far North SLSC.,173.134747,-35.176439,40,0,0,0,0,0
+2,Baylys,Patrolled by Regional Guards.,173.743372,-35.953805,30,2,1,0,0,0
+3,Bethells,Patrolled by Bethells Beach SLSC.,174.444265,-36.894655,100,8,6,2,1,0
+4,Brighton,Patrolled by Brighton SLSC.,170.329038,-45.950463,310,16,2,0,0,0
+5,Browns Bay,Patrolled by Regional Guards.,174.750381,-36.712794,960,14,13,0,0,0
+6,Castlecliff,Patrolled by Wanganui SLS.,174.975611,-39.939702,590,13,8,1,1,0
+7,East end,Patrolled by East End SLSC.,174.092467,-39.048444,850,10,8,1,0,0
+8,Fitzroy,Patrolled by Fitzroy SLSC.,174.097166,-39.045694,560,14,7,4,1,0
+9,Foxton,Patrolled by Foxton SLSC.,175.215454,-40.458197,140,4,2,2,0,0
+10,Himatangi,Patrolled by Palmerston North SLSC.,175.22835,-40.370147,30,1,0,0,0,0
+11,Hot Water,Patrolled by Hot Water Beach SLSC.,175.823328,-36.887876,20,1,0,0,0,0
+12,Kaka Point,Patrolled by Kaka Point SLSC.,169.78308,-46.385529,20,1,0,0,0,0
+13,Karekare,Patrolled by KareKare SLSC.,174.473233,-36.989528,30,2,1,0,0,0
+14,Kariaotahi,Patrolled by Kariaotahi SLSC.,174.654036,-37.283478,140,10,2,6,6,0
+15,Karoro,Patrolled by Kotuku SLSC.,171.183482,-42.472572,210,8,1,2,1,0
+16,Long Bay,Patrolled by Regional Guards.,174.752569,-36.688863,1430,9,6,2,2,0
+17,Lyall Bay,Patrolled by Lyall Bay SLSC.,174.794852,-41.330009,1060,13,5,1,1,0
+18,Main Mt. Maunganui,Patrolled by Mt. Maunganui SLSC.,176.183367,-37.632926,1460,13,3,4,4,0
+19,Mairangi Bay,Patrolled by Mairangi Bay SLSC.,174.756775,-36.739262,1760,13,0,0,0,0
+20,Maketu,Patrolled by Maketu SLSC.,176.456201,-37.75465,190,5,1,4,0,0
+21,Mangawhai Heads,Patrolled by Mangawhai Heads SLSC.,174.59861,-36.081517,50,4,2,1,0,0
+22,Marine Parade Napier,Patrolled by Pacific SLSC.,176.920674,-39.487052,1650,11,0,0,0,0
+23,Midway,Patrolled by Midway SLSC.,178.005182,-38.670815,710,14,4,6,5,0
+24,Milford,Patrolled by Regional Guards.,174.767525,-36.765567,1710,11,3,0,0,0
+25,Mowhanau,Patrolled by Wanganui SLS.,174.901625,-39.886352,100,6,2,1,1,0
+26,Muriwai,Patrolled by Muriwai Lifeguard Service.,174.425769,-36.82806,260,7,2,2,2,0
+27,New Brighton,Patrolled by New Brighton SLSC.,172.73064,-43.503986,1250,10,3,0,0,0
+28,Ngarunui,Patrolled by Raglan SLSC.,174.828873,-37.819073,100,4,2,0,0,0
+29,North,Patrolled by North Beach SLSC.,172.727351,-43.493966,1860,12,2,8,4,0
+30,Oakura,Patrolled by New Plymouth Old Boys SLSC.,173.946694,-39.11559,110,11,2,9,0,0
+31,Ocean,Patrolled by Ocean Beach Kiwi SLSC.,177.011805,-39.742438,30,1,0,0,0,0
+32,Ohope,Patrolled by Whakatane SLSC.,177.036162,-37.962989,140,9,3,6,2,0
+33,Omaha,Patrolled by Omaha SLSC.,174.780963,-36.339526,70,5,1,1,1,0
+34,Omanu,Patrolled by Omanu SLSC.,176.216117,-37.658337,1650,10,2,0,0,0
+35,Onemana,Patrolled by Onemana Beach Community Rescue Service.,175.880256,-37.151868,110,4,1,3,3,0
+36,Opunake,Patrolled by Opunake SLSC.,173.856508,-39.45843,50,3,1,1,1,0
+37,Oreti,Patrolled by Oreti SLSC.,168.230703,-46.439247,220,9,6,2,1,0
+38,Orewa,Patrolled by Orewa SLSC.,174.700062,-36.592876,520,11,8,1,0,0
+39,Oriental Bay,Patrolled by Maranui SLSC.,174.793532,-41.291061,620,9,5,3,1,0
+40,Otaki,Patrolled by Otaki SLSC.,175.11559,-40.736803,290,7,1,6,0,0
+41,Paekakariki,Patrolled by Paekakariki SLSC.,174.958745,-40.974163,620,12,3,1,0,0
+42,Pakiri,Patrolled by Regional Guards.,174.727582,-36.24468,80,2,1,1,0,0
+43,Papamoa,Patrolled by Papamoa SLSC.,176.287007,-37.696454,990,10,6,4,4,0
+44,Pauanui,Patrolled by Pauanui SLSC.,175.867896,-37.017571,90,3,0,0,0,0
+45,Piha (North),Patrolled by United North Piha SLSC.,174.464135,-36.94365,50,1570,10,0,0,0
+46,Piha (South),Patrolled by Piha SLSC.,174.467912,-36.956665,60,1490,2,2,2,0
+47,Pukehina,Patrolled by Pukehina Surf Rescue.,176.484069,-37.760003,130,4,0,0,0,0
+48,Red,Patrolled by Red Beach SLSC.,174.708087,-36.602265,990,14,3,4,1,0
+49,Riversdale,Patrolled by Riversdale SLSC.,176.075563,-41.086953,10,4,3,0,0,0
+50,Ruakaka,Patrolled by Ruakaka SLSC,174.46171,-35.909196,80,5,1,1,1,0
+51,South Brighton,Patrolled by South Brighton SLSC.,172.738101,-43.521901,1740,14,11,0,0,0
+52,Spencer Park,Patrolled by Spencer Park SLSC.,172.713747,-43.432276,980,11,3,2,0,0
+53,St Clair,Patrolled by St Clair SLSC.,170.491435,-45.911451,1270,9,6,3,2,0
+54,St Kilda,Patrolled by St Kilda SLSC.,170.512217,-45.908652,940,17,0,0,0,0
+55,Sumner,Patrolled by Sumner SLSC.,172.756657,-43.565688,760,16,15,1,0,0
+56,Sunset,Patrolled by Sunset Beach SLSC.,174.709997,-37.399346,30,1,0,0,0,0
+57,Tahunanui,Patrolled by Nelson SLSC.,173.24697,-41.279209,410,12,11,0,0,0
+58,Tairua,Patrolled by Tairua SLSC,175.862617,-36.995492,30,2,0,0,0,0
+59,Takapuna,Patrolled by Regional Guards.,174.775701,-36.787996,1830,18,4,6,3,0
+60,Taylors Mistake,Patrolled by Taylors Mistake SLSC.,172.776811,-43.583298,550,12,11,0,0,0
+61,Thornton,Patrolled by Regional Guards.,176.878252,-37.908476,150,6,4,1,1,0
+62,Titahi Bay,Patrolled by Titahi Bay SLSC.,174.835181,-41.106123,860,10,7,0,0,0
+63,Tolaga Bay,Patrolled by Regional Guards.,178.305879,-38.366791,20,1,0,0,0,0
+64,Waihi,Patrolled by Waihi SLSC.,175.938706,-37.396875,190,9,1,2,1,0
+65,Waikanae,Patrolled by Waikanae SLSC.,178.016957,-38.671263,310,13,3,9,4,0
+66,Waimairi,Patrolled by Waimairi SLSC.,172.724197,-43.485707,1170,11,0,0,0,0
+67,Waimarama,Patrolled by Waimarama SLSC.,176.994225,-39.814635,30,2,0,0,0,0
+68,Wainui,Patrolled by Wainui SLSC.,178.081266,-38.67886,890,13,7,4,1,0
+69,Waiotahi,Patrolled by Opotiki SLSC.,177.240082,-37.991432,180,8,6,0,0,0
+70,Waipu Cove,Patrolled by Waipu Cove SLSC.,174.506965,-36.02892,110,4,1,2,2,0
+71,Waitara,Patrolled by Waitara Swimming & SLSC.,174.226856,-38.989102,220,16,6,9,7,0
+72,Waiterere,Patrolled by Levin-Waiterere SLSC.,175.195595,-40.549149,150,4,0,0,0,0
+73,Warrington,Patrolled by Warrington SLSC.,170.599995,-45.71457,70,2,1,1,1,0
+74,Westshore,Patrolled by Westshore SLSC.,176.882908,-39.475061,1400,12,2,1,1,0
+75,Whangamata,Patrolled by Whangamata SLSC.,175.879612,-37.214113,60,4,1,0,0,0
+76,Whiritoa,Patrolled by Whiritoa SLSC.,175.902765,-37.283034,50,0,0,0,0,0
+77,Whites Bay,Patrolled by Rairangi SLSC.,174.057448,-41.386485,30,0,0,0,0,0
+78,Wiakuku,Patrolled by Waikuku Beach SLSC.,172.721649,-43.288054,300,12,0,0,0,0
+79,Worser Bay,Patrolled by Worser Bay SLSC.,174.82898,-41.313225,1850,20,4,4,2,0
